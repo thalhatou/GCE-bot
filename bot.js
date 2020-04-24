@@ -1,5 +1,5 @@
 const   Telegraf = require('telegraf');
-const bot = new Telegraf('1214068239:AAF2bdX7xQLgD59-LaH8rDWfpl1Yu8WLWsQ');
+const bot = new Telegraf('token key here');
 
 const helpMessage = `
 GCE ADVANCED LEVEL SCIENCE PAST GCE QUESTIONS BASED ON SUBJECT:
